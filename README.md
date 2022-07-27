@@ -1,1 +1,1 @@
-# juegoPiedraPapelTijera
+# juego piedra, papel y tijera.
