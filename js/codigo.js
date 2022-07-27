@@ -88,3 +88,4 @@ while (triunfos < 3 && perdidas < 3) {
 }
 
 alert("Ganaste " + triunfos + " veces. \nPerdiste " + perdidas + " veces." + "\nEmpataste " + empates + " veces.");
+
